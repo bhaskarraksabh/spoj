@@ -1,2 +1,2 @@
 # spoj
-Trying to solve problems at faster rate.
+https://www.spoj.com/users/jopdhiwaala/
