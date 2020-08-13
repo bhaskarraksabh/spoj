@@ -1,0 +1,21 @@
+4 5
+BDDCA
+CADBB
+ACDAA
+CBCBA
+4 5
+D C B B A
+B B C B A
+C B D B C
+C C D A A
+4 5
+D A C D A
+A C C B A
+B D D D A
+D D A C A
+4 5
+D A A A D
+A B C B A
+C A B D B
+B A C D B
+0 0
